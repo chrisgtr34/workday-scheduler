@@ -1,7 +1,7 @@
 # Workday Scheduler
 
 ## Description
-This challenge was about utlizing the Javascript in order to make the workday scheduler both functional and interactive. Utlizing every method possible to display time, a save function, and distuguish times 
+This challenge was about utlizing the Javascript in order to make the workday scheduler both functional and interactive. Utlizing every method possible to display time, a save function, and distuguish colors for past, present, and future times. 
 
 ## Screenshots
 
@@ -9,6 +9,6 @@ This challenge was about utlizing the Javascript in order to make the workday sc
 
 
 ## Links
-[Deployed Application](https://chrisgtr34.github.io/password-generator/)
+[Deployed Application](https://chrisgtr34.github.io/workday-scheduler/)
 </br>
-[Git hub repository](https://github.com/chrisgtr34/password-generator)
+[Git hub repository](https://github.com/chrisgtr34/workday-scheduler)
